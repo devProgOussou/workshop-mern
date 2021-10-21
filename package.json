@@ -1,0 +1,14 @@
+{
+  "name": "workshop-mern",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "Ousmane Fall",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.11",
+    "validator": "^13.6.0"
+  }
+}
